@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './logo_main.jpg';
 import './App.css';
 
 function App() {
@@ -7,13 +7,13 @@ function App() {
       <header className="App-header">
         
         <div class="main-placeholder">
-        <img class = "slide-logo" src="./media/LOGO-NN-CINZEL.jpg"></img>
+        <img class = "slide-logo" src={logo} alt="Logo"></img>
         <h1 class="main-header">
           
           COMING SOON
         </h1>
         </div>
-        <img class = "slide-logo" src="./media/LOGO-NN-CINZEL.jpg"></img>
+        <img class = "slide-logo" src={logo} alt="Logo"></img>
       </header>
 
     </div>
