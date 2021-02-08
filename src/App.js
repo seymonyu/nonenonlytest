@@ -12,8 +12,9 @@ function App() {
           
           COMING SOON
         </h1>
-        </div>
         <img class = "slide-logo" src={logo} alt="Logo"></img>
+        </div>
+    
       </header>
 
     </div>

@@ -14,7 +14,7 @@ html, body{
   align-items: center;
   justify-content: center;
   width: 100%;
-  height: 100%;
+  height: 720px;
   margin : 0px;
   padding: 0px;
 }
@@ -26,15 +26,13 @@ html, body{
   display: flex;
   align-items: center;
   justify-content: center;
-  
-  height: 100%;
   margin : 0px;
   padding: 0px;
   
 }
 .slide-logo{
-  width:100px;
-  height: 100px;
+  width:90px;
+  height: 90px;
   margin : 0px;
   padding: 0px;
 }
