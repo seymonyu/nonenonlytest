@@ -1,21 +1,14 @@
-import logo from './logo_main.jpg';
 import './App.css';
+import ComingSoon from './components/comingsoon'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+ 
+
+   <ComingSoon/>  
+
         
-        <div class="main-placeholder">
-        <img class = "slide-logo" src={logo} alt="Logo"></img>
-        <h1 class="main-header">
-          
-          COMING SOON
-        </h1>
-        <img class = "slide-logo" src={logo} alt="Logo"></img>
-        </div>
-    
-      </header>
 
     </div>
   );
